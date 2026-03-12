@@ -95,8 +95,8 @@ Key columns include:
 Amazon-Prime-Streaming-Content-Analysis
 │
 ├── Datasets
-│ ├── titles.csv
-│ └── credits.csv
+│   ├── titles.csv
+│   └── credits.csv
 │
 ├── Analysis.ipynb
 │
