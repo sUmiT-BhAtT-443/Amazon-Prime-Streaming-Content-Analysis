@@ -91,7 +91,9 @@ Key columns include:
 
 ---
 
-# 📁 Project Structure
+## 📁 Project Structure
+
+```bash
 Amazon-Prime-Streaming-Content-Analysis
 │
 ├── Datasets
@@ -99,9 +101,8 @@ Amazon-Prime-Streaming-Content-Analysis
 │   └── credits.csv
 │
 ├── Analysis.ipynb
-│
 └── README.md
-
+```
 
 ---
 
